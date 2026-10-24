@@ -12,7 +12,7 @@ A fully responsive restaurant landing page built with HTML and CSS.
 ## Menu Items
 
 - Chicken Biryani - ₹180.
-- Paneer Butter Masala - ₹150
+- Paneer Butter Masala - ₹150.
 - Veg Fried Rice - ₹120
 - Masala Dosa - ₹80
 
